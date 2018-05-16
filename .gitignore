@@ -1,1 +1,5 @@
+# current dir
 /node_modules
+
+# product file
+dist/
