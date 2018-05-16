@@ -2,6 +2,7 @@
   "name": "tic-tac-toe",
   "version": "1.0.0",
   "description": "Tic Game",
+  "repository": "https://github.com/skyqinsc/tic-tac-toe.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
